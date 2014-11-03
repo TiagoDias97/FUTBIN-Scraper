@@ -1,0 +1,11 @@
+{
+    "name": "futbin-scraper",
+    "description": "Automated scraping of defined players from futbin",
+    "version": "0.0.1",
+    "main": "server.js",
+    "dependencies": {
+        "express":  "latest",
+        "request":  "latest",
+        "cheerio":  "latest"
+    }
+}
